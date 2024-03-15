@@ -1,0 +1,36 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+.fixed-top {
+    position: relative;
+    display: flex;
+    justify-content: last baseline;
+    align-items: flex-end;
+    top: -150px;
+    margin-top: 50px;
+    z-index: 1030;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+
+
+.container-fluid {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+.navbar {
+    padding-top: 1px; 
+}
+
+.elemento {
+    margin-top: -8%; 
+
+}

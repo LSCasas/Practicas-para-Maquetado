@@ -1,0 +1,78 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+.fixed-top {
+    position: relative;
+    display: flex;
+    justify-content: last baseline;
+    align-items: flex-end;
+    top: -150px;
+    margin-top: 50px;
+    z-index: 1030;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+
+
+.container-fluid {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+.navbar {
+    padding-top: 1px; 
+    padding-bottom: 1px; 
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover; 
+}
+
+#carouselExampleIndicators {
+    margin-top: -150px;
+    height: 300px;
+}
+
+
+
+.container {
+    margin-top: 13rem; 
+    margin-bottom: 0rem;
+    width: 50rem; 
+    height: auto;
+  
+
+  }
+
+  .a {
+    height: 26rem; 
+    
+  }
+  
+  .card img {
+    max-height: 100%; 
+    object-fit: cover; 
+  }
+
+  .separador {
+        margin-top: 1rem; 
+
+        width: 50rem; 
+        height: auto;
+  }
+  
+  .elemento {
+    margin-top: 20px; 
+}
+
+
+
+
