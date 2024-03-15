@@ -1,0 +1,35 @@
+.containerFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    flex-wrap: wrap-reverse;
+    align-content: center;
+    
+    
+}
+
+.container {
+    width: 80%;
+    min-height: 700px;
+    margin: 10px auto;
+    border: 10px solid black;
+    position: relative;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cajaRoja {
+    
+    height: 60px;
+    width: 60px;
+    background-color: RED;
+    border: 5px solid black;
+}
