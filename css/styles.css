@@ -1,0 +1,24 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    background-color: rgb(28, 30, 31);
+    color:  rgb(209, 205, 199);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: rgb(125, 237, 165);
+    text-decoration: none;
+    
+}
+
+.content {
+    margin: 120px; /* Ajusta el tamaño del margen según sea necesario */
+    padding: 20px; /* Opcional: añade relleno para separar el contenido del margen */
+    background-color: rgb(28, 30, 31);
+}
+
