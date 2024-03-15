@@ -1,0 +1,43 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #864a4a;
+  padding: 20px;
+  text-align: center;
+}
+header nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+header nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+main .hero {
+  text-align: center;
+}
+main .features {
+  margin-top: 20px;
+}
+main .features .feature {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}/*# sourceMappingURL=main.css.map */
