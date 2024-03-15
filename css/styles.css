@@ -1,0 +1,53 @@
+header {
+    background-color: #333; 
+    font-family: Arial, sans-serif; 
+    color: white; 
+    padding: 20px;
+}
+body {
+    background-color: #F4F4F4; 
+}
+
+.center {
+    text-align: center; 
+}
+
+main {
+    width: 300px;
+    margin: 20px auto; 
+    background-color: white; 
+    padding: 20px; 
+}
+
+.avatar {
+    text-align: center; 
+}
+
+.avatar img {
+    width: 200px; 
+}
+
+
+.font1 {
+    font-family: 'Arial', sans-serif; 
+    text-align: center; 
+    color: #666;
+}
+
+.luis-casas {
+    font-family: 'Helvetica', sans-serif; 
+    text-align: center;
+    color: #333; 
+}
+
+.tamano {
+    width: 50px; 
+   
+}
+
+.imagenes {
+    text-align: center; 
+}
+
+
+
